@@ -1,0 +1,263 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+@media (max-width: 700px) {
+  .container {
+    width: 100%;
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+    overflow: hidden;
+  }
+  .header-container {
+    position: relative;
+  }
+
+  .navbar {
+    display: none;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 80%;
+    position: absolute;
+    top: 88px;
+    left: 10%;
+    padding: 32px 0;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    -webkit-box-shadow: 0px 100px 99px 100px rgba(189, 189, 192, 0.504);
+    box-shadow: 0px 100px 99px 100px rgba(189, 189, 192, 0.504);
+  }
+  .active {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .sec-bir {
+    padding-bottom: 60px;
+  }
+  .servises-container__sarlavha {
+    padding-top: 40px;
+  }
+  .servises-container__sarlavha h2 {
+    font-weight: 100;
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .navbar a {
+    font-size: 18px;
+    color: #2d314d;
+  }
+  .navbar a:hover {
+    color: #001cf0;
+  }
+  .hero {
+    display: none;
+  }
+  .sec-bir__sarlavha {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .servises-container__bulim {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-bottom: 60px;
+  }
+  .sec-bir__sarlavha h1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+
+    margin-top: -100px;
+    width: 327px;
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 47px;
+  }
+  .sec-bir__sarlavha p {
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: -0.23px;
+  }
+  .mobil-container {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    overflow: hidden;
+  }
+  .sec-bir__sarlavha {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .malumot-container__bulim {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .mobil-img {
+    display: block;
+    margin-top: -150px;
+    margin-right: -250px;
+  }
+  .servises-container__qator {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 80px;
+  }
+  .malumot-container__qator {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .footer-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-top: 48px;
+    padding-bottom: 50px;
+  }
+  .line1 {
+    width: 0;
+  }
+  .aloqa-qism {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .malumot-container__qator img {
+    width: 327px;
+  }
+
+  .servis-text {
+    width: 327px;
+  }
+
+  .btn {
+    display: none;
+  }
+  .joy a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  .burger {
+    display: block;
+  }
+  .sec-bir {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .line1 {
+    display: none;
+  }
+  .ilovalar {
+    padding-bottom: 50px;
+  }
+  .aloqa-qism {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 0px;
+    padding-bottom: 24px;
+  }
+}
